@@ -1,0 +1,4 @@
+Question 1: https://github.com/mikaelmanis/assignment2hbv202
+Question 2: HEAD is pointing to main
+Question 3: HEAD is now pointing to main, origin/main
+Question 4-5: Got an error messages that i couldn't push because the remote contains work that I do not have locally. Tells me to pull first.
